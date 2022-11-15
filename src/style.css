@@ -1,0 +1,14 @@
+.container {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 10px;
+}
+
+ul {
+  padding: 0;
+}
+#memoList li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
